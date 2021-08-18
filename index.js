@@ -7,7 +7,7 @@ Practice accessing data by console.log-ing the following pieces of data note, yo
 fifaData.filter(function(item){
     return item.Year === 2014;
 })
-//(a) Home Team name for 2014 world cup final
+//(a) Home Team name for 2014 world cup final 
 
 //(b) Away Team name for 2014 world cup final
 
